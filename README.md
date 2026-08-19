@@ -49,6 +49,6 @@ Paulo César Calla Chambi — Biólogo, especialista en hidrobiología y anális
 
 If you use this pipeline, please cite the associated manuscript (in review):
 
-> Calla Chambi, P.C. & Calla Bernedo, C. "Potencial de carbono en bofedales, pajonales y queñuales de Puno (Perú) con enfoque en 2024-2025." Ecosistemas (AEET). *Under review.*
+> Calla Chambi, P.C. & Calla Bernedo, C. "Valorización del stock de carbono en ecosistemas altoandinos de Puno (Perú) a partir de imágenes Sentinel-2 (2024–2025)" Ecosistemas (AEET). *Under review.*
 
 This project is licensed under the MIT License — see the `LICENSE` file for details.
